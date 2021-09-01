@@ -17,7 +17,7 @@ Simple API to serve [dashgo](https://github.com/martinsvinicius/dashgo) app.
 <br />
 
 <div align="center">
-<b>This API was built to serve the web app dashgo, after you run it, open <a href="https://github.com/martinsvinicius/dashgo">dashgo</a> and follow the Get Started topic on README</b>.
+<b>This API was built to serve the web app dashgo, after you run it, open <a href="https://github.com/martinsvinicius/dashgo">dashgo</a> and follow the Getting Started topic on README</b>.
 </div>
 
 <br />
